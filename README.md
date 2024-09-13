@@ -1,5 +1,3 @@
-# hello-world
-Hello World repository for Git tutorial
-This is an example repository for the Git tutoial on https://www.w3schools.com
+# Chatter
 
-This repository is built step by step in the tutorial.
+Chatter is a simple chat application that allows users to chat with each other in real-time. It is built using React and Flask.

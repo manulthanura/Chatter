@@ -2,6 +2,7 @@
 
 Chatter is a simple chat application that allows users to chat with each other in real-time. It is built using React and Flask.
 
+![alt text](https://blog.chatengine.io/assets/per-post/nodejs-react-demo.gif)
 
 Tutorial: [Build the best Chat App with Python, JavaScript & Chat Engine](https://blog.chatengine.io/fullstack-chat/python-javascript)
 
